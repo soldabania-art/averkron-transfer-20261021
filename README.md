@@ -1,2 +1,3 @@
-# averkron-transfer-20261021
-Encrypted REG.RU migration payload. No decryption keys or plaintext source.
+# Encrypted AVERKRON transfer
+
+Temporary migration transport. Payload uses AES-256-GCM; the key is separate and is not published. No plaintext source or credentials are included.
