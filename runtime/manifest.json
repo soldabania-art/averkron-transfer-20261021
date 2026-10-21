@@ -1,0 +1,44 @@
+{
+  "format": 1,
+  "algorithm": "AES-256-GCM; nonce12+ciphertext+tag16",
+  "sourceRef": "b3a4de1b0d1287e803ee4d35b237d7c30871b42f",
+  "archiveSha256": "b6987b1f727ae422d54526914cd594b8e946c7ce8721e2b22508d4874ced5772",
+  "ciphertextSha256": "05d80075387ba971d8be8fc70daf341373f0b8bd4aaec49c68cabd96b3e1ea0c",
+  "parts": [
+    {
+      "file": "p01",
+      "bytes": 262144,
+      "sha256": "170ffc18e0d688cb0a2d99dceb4d03e16183b8aa9c41045097ccfcb7180d9f59"
+    },
+    {
+      "file": "p02",
+      "bytes": 262144,
+      "sha256": "bf20567bcb01a7d398d83f59b2f812d23f2e2a2a40ef665ecd1e72a001a606f8"
+    },
+    {
+      "file": "p03",
+      "bytes": 262144,
+      "sha256": "4a5874c0bbff13e492b3e29d063e1a9d4a5e7f4daf0ecbdd8daebbdbf380eac1"
+    },
+    {
+      "file": "p04",
+      "bytes": 262144,
+      "sha256": "e99c4b7eb03ae2bfc81207d1785b4e5ba162f1079f7b2774a40cd09831be89fe"
+    },
+    {
+      "file": "p05",
+      "bytes": 262144,
+      "sha256": "5eb87d3269bff7d3c7bb75dbbbf6762ed6c2633d5c01711df16f05bb448d23ec"
+    },
+    {
+      "file": "p06",
+      "bytes": 262144,
+      "sha256": "a8e70ea61d48ce40fc938ba0b216c11ccf1dfe43ac0a294a4c446b8f6473c865"
+    },
+    {
+      "file": "p07",
+      "bytes": 148661,
+      "sha256": "d01bfd8bb955808ad573f04d5f6a5241333e1036f95998bc100ed93c91c274ed"
+    }
+  ]
+}
