@@ -1,0 +1,1080 @@
+{
+  "format": "averkron-public-site-v1",
+  "sourceRef": "5f26d374c3316754ddf9dc36969565b9960dd0e9",
+  "baseRuntimeRef": "67c260aaa06c60c65b1c0f7c6ba2bd047308985a",
+  "archiveBytes": 1362076,
+  "archiveSha256": "87adf98af7a642e120119437696910aa4941a9bf9ca0cd50da0135a1e348476a",
+  "parts": [
+    {
+      "name": "p0001.bin",
+      "bytes": 65536,
+      "sha256": "cd3ea9268b47c6f5cd6fa7c091de9326fd0be1fc553b911031aca250d738ee1f"
+    },
+    {
+      "name": "p0002.bin",
+      "bytes": 65536,
+      "sha256": "ccfccff9c6f25dafb0300b38779724d808dd685aab9c1e8f2af24d7910b3108e"
+    },
+    {
+      "name": "p0003.bin",
+      "bytes": 65536,
+      "sha256": "b03797d1243d9cedf1db4bc1acb9f973975f5b64c636dff7b5cee89b14f0309d"
+    },
+    {
+      "name": "p0004.bin",
+      "bytes": 65536,
+      "sha256": "d3d2b74c4e26de258601d6cfbc6218b0801be0224356624aa1310c4cd48e2dfe"
+    },
+    {
+      "name": "p0005.bin",
+      "bytes": 65536,
+      "sha256": "c5184074130c3eeddedb5164690ab54460515c5f9a3fbe8abba49b0a25c0f9a2"
+    },
+    {
+      "name": "p0006.bin",
+      "bytes": 65536,
+      "sha256": "9fa3af530c273c6c3b3effbead9ebabd1e3db26c016fbb81eca5df412ca91f1e"
+    },
+    {
+      "name": "p0007.bin",
+      "bytes": 65536,
+      "sha256": "7587252bf3c8a1c2a6f93621030ad31f9386f16ac583c7ca56de4366c6a47961"
+    },
+    {
+      "name": "p0008.bin",
+      "bytes": 65536,
+      "sha256": "e3b74fc246fc7ef9b284f36c1514b76a041341a804c7600f9062eccd22772cbf"
+    },
+    {
+      "name": "p0009.bin",
+      "bytes": 65536,
+      "sha256": "c711c501c9dd44d01be602b1ed9f2db7e94824b1717cd0cc66ffa74be8f579e5"
+    },
+    {
+      "name": "p0010.bin",
+      "bytes": 65536,
+      "sha256": "62524a5279a2b642db0e711ff511d1c2f7855931214b29191eee85b72eff28fa"
+    },
+    {
+      "name": "p0011.bin",
+      "bytes": 65536,
+      "sha256": "6591ec5951950045570633b671c625cfd231309624b49ec7258ef7af69d3a555"
+    },
+    {
+      "name": "p0012.bin",
+      "bytes": 65536,
+      "sha256": "cbdb655d112d8499823e67888120cc2fff1632dbfb70ef2b48f0c1f32cef8ee0"
+    },
+    {
+      "name": "p0013.bin",
+      "bytes": 65536,
+      "sha256": "c52e35d7d51975b990380f9e7953b416185499f5debcf26dfef50465060d6a81"
+    },
+    {
+      "name": "p0014.bin",
+      "bytes": 65536,
+      "sha256": "45254f93c1cad9025a0a21b3ebddfe2aa56683d56d422c647463300652f4ba2e"
+    },
+    {
+      "name": "p0015.bin",
+      "bytes": 65536,
+      "sha256": "416eb0cf965d3d0024da320a1c47f0f0986dc3b118f724a395601fea40112287"
+    },
+    {
+      "name": "p0016.bin",
+      "bytes": 65536,
+      "sha256": "6f92a9084b66f99f088e97b863954b7789b59ad202b55add78ba30e7731111b1"
+    },
+    {
+      "name": "p0017.bin",
+      "bytes": 65536,
+      "sha256": "1ae86a0dee0fc3251cac0b87501cf1fbf09c93256c58437495fb9e239a145424"
+    },
+    {
+      "name": "p0018.bin",
+      "bytes": 65536,
+      "sha256": "79c69783b9d0de90686100d3c9a23d7edf18db20f148e5538bed6b6c2fe172fb"
+    },
+    {
+      "name": "p0019.bin",
+      "bytes": 65536,
+      "sha256": "02948f7c4c5729fc8a9b61c9e598a4676fe148e96a28be65b426c104116c90e8"
+    },
+    {
+      "name": "p0020.bin",
+      "bytes": 65536,
+      "sha256": "a7bf6e5c6de0bd18958183d45c6b52bf4924d3462bb8909c94f143594ea8738c"
+    },
+    {
+      "name": "p0021.bin",
+      "bytes": 51356,
+      "sha256": "2f4b5aa1ea399c42e5f3adfb97832bc52cf1766add8aeaa08325bbaafac6f6bd"
+    }
+  ],
+  "files": {
+    "public/404.html": {
+      "bytes": 13627,
+      "sha256": "ecc4ec74a3da144a6c9c4674ce6a3b68d8d1a65a49e0e04211a8b691936869b4"
+    },
+    "public/about/index.html": {
+      "bytes": 23207,
+      "sha256": "e738da3d4209e6438a0ba342897827637d247bd24c6aa75a60d774aa09c57105"
+    },
+    "public/app-icon-192.png": {
+      "bytes": 1104,
+      "sha256": "dc44f101a932408ced1c71dd66255b2fcb1b53bcc991583fcd2750914fa02a4e"
+    },
+    "public/app-icon-512.png": {
+      "bytes": 3302,
+      "sha256": "1a05667c61ae8c7aea1e24890b6cd665a162b6f643f585de2ee15351a007da70"
+    },
+    "public/asset-manifest.json": {
+      "bytes": 2130,
+      "sha256": "14ffd98cf1140fced529bcc7150f0337a794f8d716992c2532ac7f8f0bd62d5b"
+    },
+    "public/assets/account.023a6dd5c7.js": {
+      "bytes": 111138,
+      "sha256": "023a6dd5c7553608c06a8b7258a0bca456d5818cbce125c9cc3618d72b716b5a"
+    },
+    "public/assets/account.fbeb2de967.css": {
+      "bytes": 9887,
+      "sha256": "fbeb2de96716a364b5ec0349f409463282985c76be19954ccdde1d8de5c67440"
+    },
+    "public/assets/agency-public.9db034264e.css": {
+      "bytes": 19231,
+      "sha256": "9db034264eefd4725bc9b7be914939d970217b3f6b540ebce201dcd4477023c7"
+    },
+    "public/assets/answers.e0ae907733.json": {
+      "bytes": 82736,
+      "sha256": "e0ae9077335e5cb7d1e23e7dcc28e1fd7af9d9893996fcc28b7cf7047dd217b7"
+    },
+    "public/assets/app.d59f6cb972.js": {
+      "bytes": 32742,
+      "sha256": "d59f6cb9723f3edf7fe4d21fbf8098251046b73bacd7f16479ea94b74ff850cc"
+    },
+    "public/assets/catalog-search.3309f908d1.js": {
+      "bytes": 6297,
+      "sha256": "3309f908d16cd3e41c3ac1c627316b51d520edf1cbceb18069e87ff39e6de858"
+    },
+    "public/assets/catalogue-discovery.81bd21a458.js": {
+      "bytes": 8478,
+      "sha256": "81bd21a458c0fe376ef8dd6d8b2192e5d70b1418b2bec6327d46b8e1cf08bb41"
+    },
+    "public/assets/control-center.4ff131c3c6.css": {
+      "bytes": 6008,
+      "sha256": "4ff131c3c68d6c7c5fb89ea26fb7b57aa0ca8fc256ced6c420afeea3dbc6f619"
+    },
+    "public/assets/core-3d.4ccddec850.js": {
+      "bytes": 553562,
+      "sha256": "4ccddec850742a855b970bd8786e7520f6e4ebd656b918a1da3fd95be41da409"
+    },
+    "public/assets/cormorant-LICENSE.txt": {
+      "bytes": 4314,
+      "sha256": "18aabf190848725e2576eefb5c29ba06aac1029d02132252a7f312eac2e50cf3"
+    },
+    "public/assets/cormorant-cyrillic.ae0cec0ed9.woff2": {
+      "bytes": 12256,
+      "sha256": "ae0cec0ed9bacf526786c3ccf10f1fa45f0d943967a0cc5616b0df6f61867b98"
+    },
+    "public/assets/cormorant-latin.7499d1bbfb.woff2": {
+      "bytes": 21900,
+      "sha256": "7499d1bbfbe5b79ce04484c3fb559212049489872ed831dd5af03e24337c477e"
+    },
+    "public/assets/corporation.22f5c29470.css": {
+      "bytes": 88988,
+      "sha256": "22f5c2947001f79d697c4e8c0d9711fe28e7bd5fbe15cbd022488a280aab32cf"
+    },
+    "public/assets/direction-concepts.82e993a2bc.webp": {
+      "bytes": 228944,
+      "sha256": "82e993a2bcd2ca257a6cf1f174308a4309ab31fc3a3f1f43d1228bbf6dbb688c"
+    },
+    "public/assets/founder.96f238c709.webp": {
+      "bytes": 32410,
+      "sha256": "96f238c70900ad7ba3946de88a93757f7a4725f60d894ee01575f645d12e8b08"
+    },
+    "public/assets/golos-LICENSE.txt": {
+      "bytes": 4392,
+      "sha256": "54dcae300688bccf111e43c818a6ee2261d10fc8d7eb5b9c9aa2a1e9b03189c9"
+    },
+    "public/assets/golos-cyrillic-500.22337b726d.woff2": {
+      "bytes": 7044,
+      "sha256": "22337b726df83521c7f6b2709e4717116eb53106c6140b45d751f36910191ecc"
+    },
+    "public/assets/golos-cyrillic-600.1df9c46f33.woff2": {
+      "bytes": 7140,
+      "sha256": "1df9c46f33069094b4769bd2f5f04c5c37e4ce74c77bf062f3bb476d93cc3c2b"
+    },
+    "public/assets/golos-cyrillic.15a5cbadfc.woff2": {
+      "bytes": 6960,
+      "sha256": "15a5cbadfc1aa7a541651600b757bf7b67bce4e145b3239de072db5427889605"
+    },
+    "public/assets/golos-latin-500.779e46588b.woff2": {
+      "bytes": 12032,
+      "sha256": "779e46588bc6f5f18918dcdf87d609a8053e1c925abd9e94d2b46b0254f36b24"
+    },
+    "public/assets/golos-latin-600.ecd56e7dae.woff2": {
+      "bytes": 12300,
+      "sha256": "ecd56e7dae8376b32caffd25e5c5e1b37cc400ee6d4d838383cff9454d4e9a48"
+    },
+    "public/assets/golos-latin.c8246f55db.woff2": {
+      "bytes": 11992,
+      "sha256": "c8246f55dbddb17ceab94b8de2dbcf326dc189f3bc5a8c13d7b14ad05d7d1d81"
+    },
+    "public/assets/match.ee61163194.js": {
+      "bytes": 6777,
+      "sha256": "ee61163194cb37d8f9ed6768c006eaf7284953634248859e2a1ae942e6f025e4"
+    },
+    "public/assets/portal.aa87b1ed2b.css": {
+      "bytes": 20787,
+      "sha256": "aa87b1ed2b449b3763f62fe5cdb7f250823a02c0cc5a42a5b8089cb84924b3ad"
+    },
+    "public/assets/products.68007f4fab.css": {
+      "bytes": 13851,
+      "sha256": "68007f4fab0249bef4e204c98b36f48f9a99097388e62d5cd387a95ab52fa830"
+    },
+    "public/assets/public-brief.fbdf5f4f87.js": {
+      "bytes": 19426,
+      "sha256": "fbdf5f4f87e079afe8a2bc3ab885cb6969b96b65cc87592bd95c45769a5893a8"
+    },
+    "public/assets/service-concepts.38ee0c5b87.webp": {
+      "bytes": 131052,
+      "sha256": "38ee0c5b877753784e29d59ee715e61dede8d0a63287f0dc26d9b513f3ca0551"
+    },
+    "public/assets/site-data.6d4e8f69a2.json": {
+      "bytes": 38513,
+      "sha256": "6d4e8f69a2acab42b1ddf36fbedbf23f190bcc23fdc403b1a1a93364e69c48a9"
+    },
+    "public/assets/studio-about.749b016d54.css": {
+      "bytes": 11616,
+      "sha256": "749b016d54a6445182f85add48853c921e7863cf40991f1ee93b26565b53c39b"
+    },
+    "public/assets/studio-contacts.301c547c09.css": {
+      "bytes": 2795,
+      "sha256": "301c547c098fe5901fa93a82610155725b3b225d96e6e5f34329ce2ed3ab99db"
+    },
+    "public/assets/studio-core.6007f4e18d.css": {
+      "bytes": 10551,
+      "sha256": "6007f4e18db235ca8ae3a623d1be0814f6b1c10c0c346518f83cbd07647d9c36"
+    },
+    "public/assets/studio-directory.a8bcd8788f.css": {
+      "bytes": 24257,
+      "sha256": "a8bcd8788f915b483b6cdf30c4f277d68958dc3aff71ea5ca96c899e92d5d4bc"
+    },
+    "public/assets/studio-faq.192c8a5886.css": {
+      "bytes": 8781,
+      "sha256": "192c8a58869bcff3cc1e91590482d8fbf8889818e75e30e78f35776db19c9e16"
+    },
+    "public/assets/studio-home.4c4e4af298.css": {
+      "bytes": 20856,
+      "sha256": "4c4e4af298fe2c9aadb6571f22db9d126a84ada483020beca3510313b27a67ef"
+    },
+    "public/assets/studio-journeys.ad4f1d8e48.css": {
+      "bytes": 11520,
+      "sha256": "ad4f1d8e48467e5d718d73838fda17b24af8531e0500d8f1a7e128c76e0a74bc"
+    },
+    "public/assets/studio-portal.6f226f3939.css": {
+      "bytes": 19385,
+      "sha256": "6f226f39392858afb97b2932d8b2a3283830f23400f3b204c0b0872d6f361ab6"
+    },
+    "public/assets/studio-process.e48dd35c8e.css": {
+      "bytes": 17393,
+      "sha256": "e48dd35c8eb6a6a90499030cfb4a7a0e13d0b11811e720fb378eb21e29dba817"
+    },
+    "public/assets/studio-projects.4970e84e3d.css": {
+      "bytes": 10437,
+      "sha256": "4970e84e3d37459ed6d653b2d860b82018d29019ca7c28e45b6e70abbeb1cd38"
+    },
+    "public/assets/studio-reading.efe9b72b0f.css": {
+      "bytes": 11560,
+      "sha256": "efe9b72b0f391d96399be476b8bd72a45f4806f2656f4e58eeb7118b88644ac7"
+    },
+    "public/assets/studio-services.17b084877f.css": {
+      "bytes": 11051,
+      "sha256": "17b084877f0c0fa9e4e5fc59483ed08b29b50b233db653dd5a7f55432cfe80dc"
+    },
+    "public/assets/style.3cb41db66c.css": {
+      "bytes": 40915,
+      "sha256": "3cb41db66cd4a5bc5b0e65ca896054126e0ee9dd859b32303c051d9ae08557a9"
+    },
+    "public/assets/team-workspace.e9a8b77aac.webp": {
+      "bytes": 99104,
+      "sha256": "e9a8b77aac919be3f051eaca4e6b8ea4bef76a42939ae002a5783e9db03f9792"
+    },
+    "public/assets/three-LICENSE.txt": {
+      "bytes": 1081,
+      "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+    },
+    "public/assets/upload-vercel.a70f2dd89b.js": {
+      "bytes": 25438,
+      "sha256": "a70f2dd89bb8da89703a47b275b30a07735c45b4f3cf96dcdd129d46e46eb725"
+    },
+    "public/assets/upload.40fc804ed3.js": {
+      "bytes": 2346,
+      "sha256": "40fc804ed36c5208639b399d4c9378a673b4a80932e832c6d52e1409d6a2900a"
+    },
+    "public/assets/workspace.413e7cb6cd.js": {
+      "bytes": 28500,
+      "sha256": "413e7cb6cd67b9710cd1b305a7c011f4d0296db312325bd85ef37702c3ae336c"
+    },
+    "public/blog/ai-pilot/index.html": {
+      "bytes": 21852,
+      "sha256": "33c112293cf3718d1360deef8735d76c0c99a00e66c455b36709f8cab3d7335e"
+    },
+    "public/blog/crm-signals/index.html": {
+      "bytes": 23466,
+      "sha256": "18bb46f697bab4447a3c2e358aabff24e3b06807051e4e8f8e73b7b079ee6bcd"
+    },
+    "public/blog/index.html": {
+      "bytes": 20715,
+      "sha256": "9d192cd9c7e093ae44e81c814c075e0cb803dae27ca56ff6698ce37f86b078e8"
+    },
+    "public/blog/landing-before-ads/index.html": {
+      "bytes": 21456,
+      "sha256": "2f5d9b0b54203d11393339f4f964e01807d603953717f2e66b80cbcb9558e477"
+    },
+    "public/blog/project-brief/index.html": {
+      "bytes": 24167,
+      "sha256": "03e6c09d6a241b367b5a564e037593be5ba48c791a5170ff0117f37fc006c146"
+    },
+    "public/blog/safe-ai-agent/index.html": {
+      "bytes": 21736,
+      "sha256": "0f5268b624bc6672877b90e6ea859fb8360056fe074c4fa4489f454d21f710d3"
+    },
+    "public/blog/seo-geo-aeo-guide/index.html": {
+      "bytes": 21923,
+      "sha256": "1753bdad7e85abbca8c82fc7a081ecf3f91148981f181fa921cb808a46457e4e"
+    },
+    "public/blog/site-or-advertising/index.html": {
+      "bytes": 24279,
+      "sha256": "2790ccf1c96a1062f10aec846f0ef0455ceaf95e7c1dcdc01d79d0afb5067c5c"
+    },
+    "public/blog/website-health/index.html": {
+      "bytes": 21854,
+      "sha256": "68fdf8e906168264558c102d2afe8b14075fe1270ce2bc13cff28c5a9c6eba58"
+    },
+    "public/brief/index.html": {
+      "bytes": 29429,
+      "sha256": "7b43ee7c5e91788233415f3aa06d637db11c0f1e20b7aca0235a9963a5913eed"
+    },
+    "public/cases/index.html": {
+      "bytes": 26173,
+      "sha256": "1982be023a724bcc656b62fa9b977e3241d045ba7895735b350a9b3bce9f8063"
+    },
+    "public/contacts/index.html": {
+      "bytes": 15783,
+      "sha256": "3265933d611be84f6905da71a7d8e99f039ef160a614bc702eae5ce31afeee95"
+    },
+    "public/faq/index.html": {
+      "bytes": 40207,
+      "sha256": "59f4dc357ff28bc5368c541115c45a7bc65b73dc86a3c65992b4fd20d21027a3"
+    },
+    "public/favicon.svg": {
+      "bytes": 329,
+      "sha256": "31a43cbe2beca59e577ab3adb6de9a9dc0b9dda4d20307f666123c7d136ea4a9"
+    },
+    "public/for-ai/index.html": {
+      "bytes": 775148,
+      "sha256": "e4f70744bd8d8e304105ba50b872bf1175616b828312189d343fda3839a51986"
+    },
+    "public/how-we-work/index.html": {
+      "bytes": 28763,
+      "sha256": "9b0e6375095594feb9d5f523f45a98032953fedb6708eaa18b5ad05ff77d9b9c"
+    },
+    "public/index.html": {
+      "bytes": 29566,
+      "sha256": "2d2c053c884d9ebb0ae11378782be8f92c2932f880417fec4ca3018c723ea443"
+    },
+    "public/ispolnitelyam/index.html": {
+      "bytes": 21929,
+      "sha256": "ef1b0c24509b865a871bc40fc6dd0fd154ce9064b4e994f50b85a4d314d573f3"
+    },
+    "public/ispolnitelyam/vozmozhnosti/index.html": {
+      "bytes": 18347,
+      "sha256": "b1d53458a1cbeef38b58cd701c2d76a3bfb9bde7e13e56e6208248845416a4d2"
+    },
+    "public/kabinet/index.html": {
+      "bytes": 5292,
+      "sha256": "1e345492f0a10ba28f1b749617e631dbed6ff7044cdbce1dd9a61cd67b94f6d5"
+    },
+    "public/karera/ai-trener/index.html": {
+      "bytes": 17566,
+      "sha256": "c52c562b8e8254651b2184b832cca3b06b9affcd2bfb979cf4b25227fbaea2e4"
+    },
+    "public/karera/akkaunt-menedzher/index.html": {
+      "bytes": 17678,
+      "sha256": "b44f2ff5cd047253104d1b62b4a5c01a8f1c262f027c6f8599c0c70a7cf1c972"
+    },
+    "public/karera/backend-razrabotchik-python-node-js/index.html": {
+      "bytes": 17838,
+      "sha256": "370f9cc6a3a325f56ecf91d3a3169916fc30ab8c68a278531bf1402fcc2162b2"
+    },
+    "public/karera/bi-analitik/index.html": {
+      "bytes": 17587,
+      "sha256": "74ae41cb82d27b64d32a8f2de8bcbb22e5da68d89fc702a3c4753bc62d58f7f5"
+    },
+    "public/karera/biznes-analitik/index.html": {
+      "bytes": 17633,
+      "sha256": "c1734e6df54d4322c11011e4278d7b0b0bafa97c0ac1e16de738e51f58e73f46"
+    },
+    "public/karera/brend-dizayner/index.html": {
+      "bytes": 17637,
+      "sha256": "386ffd8aacdd1ff08966aba44c3209281ca0e69b75646938a4944621bffe4f3d"
+    },
+    "public/karera/crm-integrator-amocrm-bitriks24/index.html": {
+      "bytes": 17846,
+      "sha256": "3f5b6a2b5c307b4aadfbf102c968f96edeb305a2f55f2fcaaedd9a0d424077b4"
+    },
+    "public/karera/devops-inzhener/index.html": {
+      "bytes": 17590,
+      "sha256": "94f1a1c92b7577dc4b6f75559ba41d1db74bb3edf54aa9e02eaf550f7b24ab50"
+    },
+    "public/karera/digital-strateg/index.html": {
+      "bytes": 17599,
+      "sha256": "97291e40e24b2072cbe54bea113ab11b7be7f0ec06f02e9a7d4d810844371e43"
+    },
+    "public/karera/fotograf-predmetnoy-semki/index.html": {
+      "bytes": 17791,
+      "sha256": "a2045f5ca581790c3aed05331989a1296f8db3fa7190aedc68c552ef56a4ba54"
+    },
+    "public/karera/frontend-razrabotchik/index.html": {
+      "bytes": 17681,
+      "sha256": "23ffffe6cc439d8e3a2bf983aeea42264bcacb7bb1b4559e0043576a7559e2a5"
+    },
+    "public/karera/geo-aeo-spetsialist/index.html": {
+      "bytes": 17730,
+      "sha256": "214d2fba5c5b53c3e8bde6f4d7b76f34a8fb994db806896746f7840cdae6fc53"
+    },
+    "public/karera/index.html": {
+      "bytes": 43489,
+      "sha256": "829d46e97812cae92f0224c3108ff1eb1db8554b56ca39316bcd5396ee05ed4c"
+    },
+    "public/karera/inzhener-tekhpodderzhki/index.html": {
+      "bytes": 17760,
+      "sha256": "66f012e867bc7c86e3ace4d0b8fb5c26fc3d6c6d77c674d459351a9b45fb1ca5"
+    },
+    "public/karera/kopirayter-redaktor/index.html": {
+      "bytes": 17697,
+      "sha256": "fa08790e482b543f43f4c87d318ef907536856d817a2d48fb7f0853a903afdf0"
+    },
+    "public/karera/llm-inzhener/index.html": {
+      "bytes": 17611,
+      "sha256": "1681e45b813b4f6772ab2c321905475967e757aa3295a935e051fed95705313f"
+    },
+    "public/karera/menedzher-marketpleysov/index.html": {
+      "bytes": 17758,
+      "sha256": "316d115af4268c106495c853436145d4c2dae4e3748ffa034b65b088fb69b979"
+    },
+    "public/karera/menedzher-po-prodazham/index.html": {
+      "bytes": 17744,
+      "sha256": "aa0ac9f02100cfb94b7bd2cb1922772ef3bbc3d5a9d4e2e1445c2c1f36938985"
+    },
+    "public/karera/mobilnyy-razrabotchik/index.html": {
+      "bytes": 17771,
+      "sha256": "987d73ffbb8aec7ed6a714b20c9ee29de91eac4b25a9c7410ab4619c3c53df34"
+    },
+    "public/karera/moushn-i-3d-dizayner/index.html": {
+      "bytes": 17691,
+      "sha256": "c890e4a5db990627bc685d70fc41f57686aae1635dc3d9c5315556a54a916776"
+    },
+    "public/karera/pr-menedzher/index.html": {
+      "bytes": 17505,
+      "sha256": "d843a9c2ecfecf1744289cfc7a43e0908d08eaed5911173bef83cffcd486c02c"
+    },
+    "public/karera/proektnyy-menedzher/index.html": {
+      "bytes": 17716,
+      "sha256": "1d4728621a85820ca6563a4f7bc080698a9f5326d9aa7a7fc48185ead189a552"
+    },
+    "public/karera/qa-inzhener/index.html": {
+      "bytes": 17536,
+      "sha256": "2e8fbc40a61194b36680ded9c4d98d885e924cee132d03f0cbfc77f378c0568b"
+    },
+    "public/karera/razrabotchik-ii-agentov-python/index.html": {
+      "bytes": 17857,
+      "sha256": "4702d0d1dfc84c15e90d155ab9110d07c2ad9c76bdfc7702f343ed0b083b463f"
+    },
+    "public/karera/razrabotchik-integratsiy-1s/index.html": {
+      "bytes": 17818,
+      "sha256": "261865b8c88aaf56fbef9a7515801f584270cea9978dbf1acee37bd34e26fea1"
+    },
+    "public/karera/seo-spetsialist/index.html": {
+      "bytes": 17585,
+      "sha256": "edf2f38b5af8b7e1e63f6a5145f3677902d5e5cd51aa2af0cdf1ef0eb6a07e83"
+    },
+    "public/karera/sistemnyy-administrator-sre/index.html": {
+      "bytes": 17799,
+      "sha256": "319cfbd07bc584e472d5cc82f460b6f1cee26f6df52fdeb6a89756a0c799d26a"
+    },
+    "public/karera/smm-menedzher/index.html": {
+      "bytes": 17508,
+      "sha256": "8f99a31d743203a9f901efae7f137ecde75ea5c7d96fb61c9ccce6a4983c5378"
+    },
+    "public/karera/spetsialist-po-ii-video/index.html": {
+      "bytes": 17723,
+      "sha256": "e3bf183b87982c9785312c45403dd0e2945abe4e3558d5364dfd37a63ef40672"
+    },
+    "public/karera/spetsialist-po-informatsionnoy-bezopasnosti/index.html": {
+      "bytes": 18036,
+      "sha256": "54eef60bbee1ad7f7892a6df374648ed066e786f4c62a195d8815c8de3c6b252"
+    },
+    "public/karera/spetsialist-po-kontekstnoy-reklame/index.html": {
+      "bytes": 17900,
+      "sha256": "b34234d34a8c269cb1e4e8bb1c5f79d221844a245978e96cc60657acb2b02e72"
+    },
+    "public/karera/spetsialist-po-vnedreniyu-ii/index.html": {
+      "bytes": 17831,
+      "sha256": "6abc652e01c23176e80498437beafd3827e35dc197c79d8706821fafcdf27fd0"
+    },
+    "public/karera/targetolog/index.html": {
+      "bytes": 17531,
+      "sha256": "2540a9f5c16d5dbddf46c4e4cf82ad96ac5cf2e67b1272cfdb7ea3ce84a30b90"
+    },
+    "public/karera/ux-issledovatel/index.html": {
+      "bytes": 17657,
+      "sha256": "e6d0ccda61d01969ecbf4d22d578931db545db1ae6f9826827552b22299959d1"
+    },
+    "public/karera/ux-ui-dizayner/index.html": {
+      "bytes": 17601,
+      "sha256": "4a59ddb79f3ed2a7975b9de7f93e3d25ea066b2802f990f84612ac75b7b18e21"
+    },
+    "public/karera/veb-analitik/index.html": {
+      "bytes": 17589,
+      "sha256": "f3b94591a0820ed760f5a5b99e6303dcbd176a8c175886976a3e1d14baf492ec"
+    },
+    "public/karera/videograf-montazher/index.html": {
+      "bytes": 17633,
+      "sha256": "7b4ef657d70c80afda80e7d1602df2402df712e2bdaeec21f2bfb606400a71cc"
+    },
+    "public/llms.txt": {
+      "bytes": 69711,
+      "sha256": "9d461af0f2fe2d57d163447f160fa259dae467aead7d0d7624024bd41ae791e2"
+    },
+    "public/manifest.webmanifest": {
+      "bytes": 731,
+      "sha256": "794c83da16732233e1e329a74e75b22ca8dd2a7b45ae2311f0411940c9088fe9"
+    },
+    "public/napravleniya/avtomatizatsiya-i-dannye/audit-biznes-protsessov/index.html": {
+      "bytes": 25463,
+      "sha256": "d62d12d6c503433e47e3d63b58d8cebc6f2840b54c49fac7a2b5264f3615843f"
+    },
+    "public/napravleniya/avtomatizatsiya-i-dannye/avtomatizatsiya-rutiny/index.html": {
+      "bytes": 25611,
+      "sha256": "e4b8bd9296ea83f7701f8dd6b1f6e05a8ef58d07df2de7006ec0554efe5beaa8"
+    },
+    "public/napravleniya/avtomatizatsiya-i-dannye/bi-dashbordy-rukovoditelya/index.html": {
+      "bytes": 25576,
+      "sha256": "18786d4ea5cf82418ddd3337442927036791c21bc6c71a583ff220fffcbc2bce"
+    },
+    "public/napravleniya/avtomatizatsiya-i-dannye/elektronnyy-dokumentooborot/index.html": {
+      "bytes": 25519,
+      "sha256": "6d7ef268268340fc78b531bc11c5db516dd9d2d71d86b6077de60808f26c9b04"
+    },
+    "public/napravleniya/avtomatizatsiya-i-dannye/index.html": {
+      "bytes": 93621,
+      "sha256": "341708982dff44990c3e893307de44fb6aecac2a12497d9af7b68a10bc08e3f1"
+    },
+    "public/napravleniya/avtomatizatsiya-i-dannye/integratsii-s-erp-i-uchetom/index.html": {
+      "bytes": 25474,
+      "sha256": "c0b2f5f360409b6496e4d2ef4231d538c0e1150e4f5761a7b65e2376ee198dbd"
+    },
+    "public/napravleniya/avtomatizatsiya-i-dannye/integratsiya-crm/index.html": {
+      "bytes": 25094,
+      "sha256": "7143a52228e5f19334d403e78cf483240f931cc2bce21b1893d9217551faae5d"
+    },
+    "public/napravleniya/avtomatizatsiya-i-dannye/nastroyka-metriki-i-tseley/index.html": {
+      "bytes": 25371,
+      "sha256": "1fe01533475031631feacae142ef0dbcd657c3ee2588aae1c94b9c74b926fa52"
+    },
+    "public/napravleniya/avtomatizatsiya-i-dannye/robotizatsiya-protsessov-rpa/index.html": {
+      "bytes": 25695,
+      "sha256": "f3444e5af97d4bd29d458136738a41a51d9c58dd38dd657ed061087e94607341"
+    },
+    "public/napravleniya/avtomatizatsiya-i-dannye/skvoznaya-analitika/index.html": {
+      "bytes": 25234,
+      "sha256": "dacbe0c2491b0d96f3823d1719512d5db9f934d65e411d8463dbc7bdf8dfd438"
+    },
+    "public/napravleniya/avtomatizatsiya-i-dannye/vnedrenie-crm/index.html": {
+      "bytes": 26574,
+      "sha256": "35281a5bc8df13d80c952622de6e62d836ee9fefc7c2b495215e76fcab8c236e"
+    },
+    "public/napravleniya/brend-i-dizayn/3d-vizualizatsiya/index.html": {
+      "bytes": 24843,
+      "sha256": "e2e28cf3565d03556e39304550b665707f8ba06fdcfba8d41f1fab8b64ff525c"
+    },
+    "public/napravleniya/brend-i-dizayn/brendbuk/index.html": {
+      "bytes": 24916,
+      "sha256": "c675d78bff8c0fa136b9dbae712c1b4473ff7ece0f946833494692e0112f64dc"
+    },
+    "public/napravleniya/brend-i-dizayn/dizayn-kartochek-dlya-marketpleysov/index.html": {
+      "bytes": 26172,
+      "sha256": "28860ccc819087c72f0fa73c0ee1ca31586bc776855536e475f5c6cfb7de1800"
+    },
+    "public/napravleniya/brend-i-dizayn/dizayn-sistema/index.html": {
+      "bytes": 25246,
+      "sha256": "dd7a47cd6f340591d41dd7cbb5b479fa40c9254d15787fdfa5dc29d08ed9d531"
+    },
+    "public/napravleniya/brend-i-dizayn/dizayn-upakovki/index.html": {
+      "bytes": 25018,
+      "sha256": "f015194f8b35b6837fb6b95dc417b235bf87674374e683c24573d85a9d654809"
+    },
+    "public/napravleniya/brend-i-dizayn/firmennyy-stil/index.html": {
+      "bytes": 26539,
+      "sha256": "09838558de1b8f46772a711020081754f42b113273bce4947e1c48e41ee0fe24"
+    },
+    "public/napravleniya/brend-i-dizayn/illyustratsiya/index.html": {
+      "bytes": 24734,
+      "sha256": "1ab3dda689e9c8297b9288e3fb20605fb77a03da9826d8830d88d317f30b287d"
+    },
+    "public/napravleniya/brend-i-dizayn/index.html": {
+      "bytes": 81074,
+      "sha256": "4e7a576ce0dd7a07968220460b895bf92e428555638b99a334fad0f4c25204b4"
+    },
+    "public/napravleniya/brend-i-dizayn/logotip/index.html": {
+      "bytes": 25767,
+      "sha256": "42b013415449921441c642490f3b976e1c876e86569c2f28ee3b831b52c1e76f"
+    },
+    "public/napravleniya/brend-i-dizayn/moushn-dizayn/index.html": {
+      "bytes": 24760,
+      "sha256": "0ecb50f6d0eabcd44861f8a723eacd0747ed5e3ae09fa2d9e514a8b96e0b59ba"
+    },
+    "public/napravleniya/brend-i-dizayn/neyming/index.html": {
+      "bytes": 25016,
+      "sha256": "d46a1b3ae99f7fb698c94741a7bd5d726ccb3ebe0f36e2917a888cea7a844437"
+    },
+    "public/napravleniya/brend-i-dizayn/prezentatsii/index.html": {
+      "bytes": 24806,
+      "sha256": "6ba96038c03701a489fc7982b1d3e08a6d3e97b928277423f68d8bde4b9e88d1"
+    },
+    "public/napravleniya/brend-i-dizayn/prototipirovanie/index.html": {
+      "bytes": 25152,
+      "sha256": "d47b99833642e19f20d43352f2ef58fced5ac61422a292a5994c0eab6ccb04a6"
+    },
+    "public/napravleniya/brend-i-dizayn/rebrending/index.html": {
+      "bytes": 25019,
+      "sha256": "25be1c40d60c45764addac7b631fc23cf4f5bd702e6ffa730a86adb1ba64d779"
+    },
+    "public/napravleniya/brend-i-dizayn/strategiya-i-pozitsionirovanie/index.html": {
+      "bytes": 25533,
+      "sha256": "da1ce35f6ca0b4fc3d70ac3eab91f559f5f7d7e62d55a1bc68f985123f5fd69e"
+    },
+    "public/napravleniya/brend-i-dizayn/ux-issledovaniya/index.html": {
+      "bytes": 25244,
+      "sha256": "e94600c3c1a74e3c812038c6f8dc94ba6ae5e0550a817bfaa37ddd59eefbdca9"
+    },
+    "public/napravleniya/brend-i-dizayn/ux-ui-dizayn/index.html": {
+      "bytes": 24905,
+      "sha256": "ec780f2b00dcc1ad7f8b237d0551d38eb8c8c7d6d57d86403dc95225ead9b7cd"
+    },
+    "public/napravleniya/index.html": {
+      "bytes": 778558,
+      "sha256": "517bfa3ec67aecebe9e0745b52736aff632a4722afb7d68d9b89125dee1a4889"
+    },
+    "public/napravleniya/intellekt/audit-gotovnosti-k-ii/index.html": {
+      "bytes": 25400,
+      "sha256": "7590f5e58680e142cacdc7fcb5960bcf64b4a4d02a624b27de924d09925b03e4"
+    },
+    "public/napravleniya/intellekt/baza-znaniy-kompanii-rag/index.html": {
+      "bytes": 25862,
+      "sha256": "7d4fb140877e3db9defcba2c551c22630d7866a5e81e70640cc6e06d7f950394"
+    },
+    "public/napravleniya/intellekt/doobuchenie-modeley/index.html": {
+      "bytes": 25617,
+      "sha256": "ca4538b3db16cc75480518d8dd3a453f625ab3f6fa56a9d7d0d72272ef660fab"
+    },
+    "public/napravleniya/intellekt/generatsiya-kontenta/index.html": {
+      "bytes": 25413,
+      "sha256": "88f859ef30b6ed63cdaa9577b81e9c36a4a0bfe42a8fb07f954275827b3109f9"
+    },
+    "public/napravleniya/intellekt/golosovoy-ii-robot/index.html": {
+      "bytes": 26779,
+      "sha256": "6cf153c03e7336bfb60e23533c9016670e79d5a7c3b1bc179a56eda50933a3f6"
+    },
+    "public/napravleniya/intellekt/ii-agent-prodazh/index.html": {
+      "bytes": 26829,
+      "sha256": "163d46749563bbf18d5f741ecf33e4cf8a9c3997826f4a5f5ff584fc27483963"
+    },
+    "public/napravleniya/intellekt/ii-analiz-zvonkov-i-perepisok/index.html": {
+      "bytes": 25898,
+      "sha256": "21b00cc28abc05f8a8bf70f8982fa35ca3fb8f1e4e6a608874d865b60d616590"
+    },
+    "public/napravleniya/intellekt/ii-assistent-dlya-sotrudnikov/index.html": {
+      "bytes": 25736,
+      "sha256": "3aa2d2da9e960a927604659d05e81d1ab8d691812a1cc145db05c8ebd6144b94"
+    },
+    "public/napravleniya/intellekt/ii-bezopasnost-i-kontrol/index.html": {
+      "bytes": 26074,
+      "sha256": "9e555dac91f3c0de000d0afd5e60a55a60dd9bfa473051f2db2b6c464357089e"
+    },
+    "public/napravleniya/intellekt/ii-konsultant-na-sayte/index.html": {
+      "bytes": 27396,
+      "sha256": "d8865d0f6f728996afaa313d4899ed738f0cd0de68bce0ea073e39ac97acd679"
+    },
+    "public/napravleniya/intellekt/ii-podderzhka-klientov/index.html": {
+      "bytes": 25534,
+      "sha256": "66579a1dec89151d594a630dd18259a159bf4b86e79227a7d60298e7d4bc95d7"
+    },
+    "public/napravleniya/intellekt/ii-prognozy/index.html": {
+      "bytes": 25068,
+      "sha256": "3518844b04c4acd7b80be9038e84ef4e53ea0e6636e1507ef99d3caaab141a2a"
+    },
+    "public/napravleniya/intellekt/index.html": {
+      "bytes": 208559,
+      "sha256": "a93a659f30c976c9cb19e73242e4e2de0aefceb51b30c8775ec7a54df9cfd03c"
+    },
+    "public/napravleniya/intellekt/kompyuternoe-zrenie/index.html": {
+      "bytes": 25593,
+      "sha256": "48a40a202285bc0ba4d4f4e8de97d00bf4c63360e5b7c65d07023e106cbbb17f"
+    },
+    "public/napravleniya/intellekt/lokalnye-modeli/index.html": {
+      "bytes": 25532,
+      "sha256": "08f70cb58f969c731323e475a317f6e963dbf5eaf5dbfa9f5066a317b1838e48"
+    },
+    "public/napravleniya/intellekt/obrabotka-dokumentov-s-ii/index.html": {
+      "bytes": 27393,
+      "sha256": "e70da3198c72f70297753980bf321aa8c6b8471170ee165d65aa6f92203f7612"
+    },
+    "public/napravleniya/intellekt/vnedrenie-ii-v-produkt/index.html": {
+      "bytes": 25636,
+      "sha256": "ae24e79d53b4ed1bce405c5d969d57c1d270ac1d397969c1e994ec275bb4519d"
+    },
+    "public/napravleniya/nadezhnost/audit-reklamy/index.html": {
+      "bytes": 24736,
+      "sha256": "c3f7497e4a06acafe42672b6fac6657a9f68e041443caa6ea5d5488548c2738e"
+    },
+    "public/napravleniya/nadezhnost/audit-sayta/index.html": {
+      "bytes": 26419,
+      "sha256": "4ed8ae7d0c68169075d9a9439a453d25a1ae1afd8236f494d0467c7c5d63a5e2"
+    },
+    "public/napravleniya/nadezhnost/besplatnaya-proverka-sayta/index.html": {
+      "bytes": 25406,
+      "sha256": "d0b50fa9279c8ad7091710a0badcb1687b220cf17f9588ce3718bb3095dda26e"
+    },
+    "public/napravleniya/nadezhnost/index.html": {
+      "bytes": 66613,
+      "sha256": "24f6344a77e2d1bca361452736c55bb7277c68854b26de63f9f1f0d5be2bf759"
+    },
+    "public/napravleniya/nadezhnost/khosting-i-oblako/index.html": {
+      "bytes": 24761,
+      "sha256": "879fad33800b7507675e389504c060ef60d34f2b9787c50e8b07fe2c3c6b0409"
+    },
+    "public/napravleniya/nadezhnost/kiberbezopasnost-i-pentest/index.html": {
+      "bytes": 25485,
+      "sha256": "dfa9927b0dcb0ab5d467fa8361197cc341771d8d49f55cbd21b3a89a391665e1"
+    },
+    "public/napravleniya/nadezhnost/migratsii/index.html": {
+      "bytes": 24967,
+      "sha256": "030ada346d9d99aa0ea60d8b0a4b8ffe8858e207cecc9afa2d89689932d5e9d9"
+    },
+    "public/napravleniya/nadezhnost/monitoring-24-7/index.html": {
+      "bytes": 24929,
+      "sha256": "fe33b47a7db3d61199824162766f5fb62cf87d2697d51b4c46ea788055348dbc"
+    },
+    "public/napravleniya/nadezhnost/proverka-gotovnosti-k-sboyu/index.html": {
+      "bytes": 25355,
+      "sha256": "9e188f2fbd6396cb40e0c22f639f0eadd1b6cbeb6b05183489ae28ccdcb5b2cb"
+    },
+    "public/napravleniya/nadezhnost/rezervnoe-kopirovanie/index.html": {
+      "bytes": 25223,
+      "sha256": "ceba32e174f34bd9d3e3a9f95f19d49e633b6d795610ab735d1c5f3ab16dd3c0"
+    },
+    "public/napravleniya/nadezhnost/sootvetstvie-152-fz/index.html": {
+      "bytes": 25378,
+      "sha256": "7c3ffd5d741a6b6acf5018cb759764cc6294d0d7386861eee06acccbec7a1ee3"
+    },
+    "public/napravleniya/nadezhnost/zapasnoy-vykhod/index.html": {
+      "bytes": 26512,
+      "sha256": "de144c1f95fe0d20788c3f4962277167565ad3c682fe7948aa56808decee62f6"
+    },
+    "public/napravleniya/nadezhnost/zaschita-ot-ddos-i-botov/index.html": {
+      "bytes": 25218,
+      "sha256": "30d4b673b69b13573263b95d0a41464276b703e60be2ec59165bd5a61ac68044"
+    },
+    "public/napravleniya/prodakshn/3d-roliki-produkta/index.html": {
+      "bytes": 24770,
+      "sha256": "d527f6bce0cfdadf93ea8e6b5c009ad33ce1ff63e16a644616d64a551fa37bd4"
+    },
+    "public/napravleniya/prodakshn/ekspertnye-stati/index.html": {
+      "bytes": 25180,
+      "sha256": "ef7607c9a56cb396efe092caa639aabd36898327de8582cc59552aadc9e5e8f9"
+    },
+    "public/napravleniya/prodakshn/ii-video-i-ii-foto/index.html": {
+      "bytes": 24817,
+      "sha256": "c9da7d5d24e5e6b8cb442120265d4373d7bd480a40454be7adc47f5d4fb340cd"
+    },
+    "public/napravleniya/prodakshn/index.html": {
+      "bytes": 93039,
+      "sha256": "ba87c290a3b7a8dc2397ecf3074337a2ab86439b59f2b7d9c858118f65964d7a"
+    },
+    "public/napravleniya/prodakshn/infografika-dlya-marketpleysov/index.html": {
+      "bytes": 25433,
+      "sha256": "15a049665e2ca132e0996f24cfc27daf54ea3dfb8223ae7a9d0bc597b59b0dad"
+    },
+    "public/napravleniya/prodakshn/korotkie-video-dlya-sotssetey/index.html": {
+      "bytes": 25152,
+      "sha256": "cca8e2573092cd7fe23ddf9b6df0838c01f9747c3fe83059c0bff373fd99147d"
+    },
+    "public/napravleniya/prodakshn/podkasty-i-ozvuchka/index.html": {
+      "bytes": 24705,
+      "sha256": "4d1e6e08f29d26fce6d42f5e48cb8d908bb437cf988d28ad1ecbbd36f185bdec"
+    },
+    "public/napravleniya/prodakshn/predmetnaya-fotosemka/index.html": {
+      "bytes": 25113,
+      "sha256": "9e3150892fbb952503470e17aa14025faf96dabfc97d8d8a330bc912a7eef0c3"
+    },
+    "public/napravleniya/prodakshn/reklamnye-kreativy/index.html": {
+      "bytes": 25019,
+      "sha256": "58ddf7b465a264ae6116928cb24f046cec441cf88c94746dc7ceb60a84c87427"
+    },
+    "public/napravleniya/prodakshn/reklamnye-video/index.html": {
+      "bytes": 24898,
+      "sha256": "46d234b3108ec1c416b20e4d25882193fcc6763fd601b83b3094cbcff893b7d9"
+    },
+    "public/napravleniya/prodakshn/teksty-dlya-sayta/index.html": {
+      "bytes": 24941,
+      "sha256": "c31c563458e75581979c8da3adddc4dda959f04ef90bf1412ccc905600eff52c"
+    },
+    "public/napravleniya/razrabotka/api-i-integratsii-sistem/index.html": {
+      "bytes": 25470,
+      "sha256": "c59c285cb4a836831273f12e821008519e4cb72fd271e10034129d1c35161004"
+    },
+    "public/napravleniya/razrabotka/index.html": {
+      "bytes": 97192,
+      "sha256": "266ce8dfc496d048fe9b464da440e617fc9a9592a94d92b65ca7e2b8de4854bc"
+    },
+    "public/napravleniya/razrabotka/integratsii-s-1s-oplatoy-i-dostavkoy/index.html": {
+      "bytes": 25850,
+      "sha256": "e1732303b99998aa3d0a3873e605b03294429b2700c291f605690764ba3f4471"
+    },
+    "public/napravleniya/razrabotka/internet-magazin/index.html": {
+      "bytes": 27093,
+      "sha256": "d5803c9655a0ee9e3e4da75b7d6646be6fd28ecf2687aaa94e50957b75be198c"
+    },
+    "public/napravleniya/razrabotka/korporativnyy-portal/index.html": {
+      "bytes": 25266,
+      "sha256": "70762d0da1ce82d06ac53cc9f7c86ed461c6f8a7784eafc2275b5793ce969576"
+    },
+    "public/napravleniya/razrabotka/korporativnyy-sayt/index.html": {
+      "bytes": 27049,
+      "sha256": "cc26d570021ebdad5417875a9ab1c3c3651d5cb9600231683478a4fb92a60ab3"
+    },
+    "public/napravleniya/razrabotka/lending/index.html": {
+      "bytes": 26707,
+      "sha256": "9dc698fc30d884625bfd78ce259fa445fc421b3c2f3b9cef4daf70063d16ce25"
+    },
+    "public/napravleniya/razrabotka/lichnyy-kabinet-klienta/index.html": {
+      "bytes": 25337,
+      "sha256": "fb0b25de61599d71028f22a1ca7e0f3a38047a5f5a28c17835a3bceddb8d1292"
+    },
+    "public/napravleniya/razrabotka/magazin-iz-kartochek-ozon-i-wb/index.html": {
+      "bytes": 27484,
+      "sha256": "f400ed2a367907d158c013e0090e4c886ce66bf52fc47a5857ebbce3d16977ac"
+    },
+    "public/napravleniya/razrabotka/marketpleys-i-agregator/index.html": {
+      "bytes": 25393,
+      "sha256": "88d298ea66837dd31d581d9a5117a8b9e49e6e22a12ecbdced9566bae0627579"
+    },
+    "public/napravleniya/razrabotka/mobilnoe-prilozhenie/index.html": {
+      "bytes": 26758,
+      "sha256": "dbaa20c574732b9351f56b218aa174b2f0714ebb882e9125cf54c54a86fe8068"
+    },
+    "public/napravleniya/razrabotka/perenos-sayta/index.html": {
+      "bytes": 25186,
+      "sha256": "e7e249f128dd71a12a80642b4991151e4a23a9c8fc737d69c4729d2bf0130981"
+    },
+    "public/napravleniya/razrabotka/redizayn-sayta/index.html": {
+      "bytes": 25139,
+      "sha256": "0b209daae5a5c658200b9aafbc8b6fd1ce1a95fd7cd77d26d48a2a50ef2c64b6"
+    },
+    "public/napravleniya/razrabotka/sayt-katalog/index.html": {
+      "bytes": 24825,
+      "sha256": "62490cc00b4c31b84489e72a602d679b6f41e552e2aa0750a401df70f173c7ca"
+    },
+    "public/napravleniya/razrabotka/tekhpodderzhka-i-razvitie/index.html": {
+      "bytes": 25523,
+      "sha256": "420cf3cfea9202a1a098542d89cbb799e162b0be33026c6c2fc3b0b0fd2b944e"
+    },
+    "public/napravleniya/razrabotka/telegram-bot/index.html": {
+      "bytes": 26209,
+      "sha256": "f2ae9e434cc084cd851dc71c27f69fcfaa7465db421f2a5ad429f50075f4b416"
+    },
+    "public/napravleniya/razrabotka/telegram-mini-app/index.html": {
+      "bytes": 24647,
+      "sha256": "09451522b5fcc024b2df02fa665bfe7f54cab1f9b2cdf2c8dd291d6d0d74403e"
+    },
+    "public/napravleniya/razrabotka/veb-servis-i-saas/index.html": {
+      "bytes": 25059,
+      "sha256": "cbf0fc304780dcaece30ea1484993b1208a6a1778df2176b109894cb243c6376"
+    },
+    "public/napravleniya/rost/email-i-crm-marketing/index.html": {
+      "bytes": 25165,
+      "sha256": "77e6a12b5759e9741c0da09c5235d2b1006ece4a9e9c9a8f205e4917c00d814e"
+    },
+    "public/napravleniya/rost/geo-aeo/index.html": {
+      "bytes": 26723,
+      "sha256": "76c730934fd87bc65808d0164b26284a993b75b320bacabfc51b9ecd95e02549"
+    },
+    "public/napravleniya/rost/index.html": {
+      "bytes": 83017,
+      "sha256": "e1add9e0431165a17935a5b8025f0e8c66e08ebe1c9558828d7f044d84542475"
+    },
+    "public/napravleniya/rost/kompleksnyy-marketing/index.html": {
+      "bytes": 25005,
+      "sha256": "5a310dd3a65b2d895d340707fad4b011c0c7c94925c7ea1c91496850851fa680"
+    },
+    "public/napravleniya/rost/kontekstnaya-reklama/index.html": {
+      "bytes": 26620,
+      "sha256": "37ef274874490a444a0bce0d499680a35060efde0240a95228b91782ee2aeaae"
+    },
+    "public/napravleniya/rost/kontent-marketing/index.html": {
+      "bytes": 25023,
+      "sha256": "3c14724ee96e5d731cf2982c396393829bc07583b949e2801f72a855cb1e5449"
+    },
+    "public/napravleniya/rost/kraud-marketing/index.html": {
+      "bytes": 24692,
+      "sha256": "4852770e295cec7d4f87d8c28fdaff5f20c31b4f2d366edf3d05ae7954f6fc55"
+    },
+    "public/napravleniya/rost/povyshenie-konversii-cro/index.html": {
+      "bytes": 25408,
+      "sha256": "e920012fc6630af6e10a56d3cc706e64dc47fac6e6c020cf26739917d053cb2b"
+    },
+    "public/napravleniya/rost/pr-i-publikatsii-v-smi/index.html": {
+      "bytes": 25000,
+      "sha256": "0ee62ae5a3eca9b45fad0c9099da783c42b58fe98ac0ebde1b000507a807a18d"
+    },
+    "public/napravleniya/rost/prodvizhenie-na-ozon-i-wildberries/index.html": {
+      "bytes": 26607,
+      "sha256": "ff2a571af7b5061a6f1e1bc4e6a029ca5eb3c0f723d6bc6e9665f9da234c30f2"
+    },
+    "public/napravleniya/rost/rabota-s-blogerami/index.html": {
+      "bytes": 24777,
+      "sha256": "8e4f7bf572654e001bd688562ed5669f3db0213e2541d316a1e3389b1ea2fdfc"
+    },
+    "public/napravleniya/rost/regionalnoe-prodvizhenie/index.html": {
+      "bytes": 25293,
+      "sha256": "abe55db98966b6a766718afb781eca7267900b18e856b62f5dc0e82a80293392"
+    },
+    "public/napravleniya/rost/reklama-vnutri-marketpleysov/index.html": {
+      "bytes": 25441,
+      "sha256": "61c6f1458fb7570942404d26c57de6767dd1b7944333d45f00c977b3f3cfbb2a"
+    },
+    "public/napravleniya/rost/seo/index.html": {
+      "bytes": 26537,
+      "sha256": "0790361c322ebae341664d8afa81a5f05fe1509ea3ec44c8a78344001e27a511"
+    },
+    "public/napravleniya/rost/seo-internet-magazina/index.html": {
+      "bytes": 25246,
+      "sha256": "8063c8c99110906ded08d67fc1b2bbbf81b1c974a9242042e3b8c146ec592ac4"
+    },
+    "public/napravleniya/rost/smm/index.html": {
+      "bytes": 25683,
+      "sha256": "1823acca81d81bb4b52ab2388ccb4ca866781adce575d03f2ba7817ace88c96b"
+    },
+    "public/napravleniya/rost/targetirovannaya-reklama/index.html": {
+      "bytes": 25164,
+      "sha256": "a306cfd8858243e2499d36f5493b22bce49518f9cb62aea6b9d3e9626351e284"
+    },
+    "public/napravleniya/rost/telegram-kanaly-i-posevy/index.html": {
+      "bytes": 24813,
+      "sha256": "b8a46b2f0c0e09ce3dd2b17487d1aebae5d5dd1d1899969b7f1a5e4e2cd15141"
+    },
+    "public/napravleniya/rost/upravlenie-reputatsiey/index.html": {
+      "bytes": 25221,
+      "sha256": "fedea2577be9f474065ca6e46bc738d36885ef6e2bcffb6ea2947d9cc6c28c25"
+    },
+    "public/napravleniya/rost/yandeks-karty-i-2gis/index.html": {
+      "bytes": 25113,
+      "sha256": "ff72e97647d2125cc00ff7a44206b2b2478e5e5207eb7c80753e3c98dbb06e26"
+    },
+    "public/napravleniya/strategiya-i-komandy/autstaffing-spetsialistov/index.html": {
+      "bytes": 25666,
+      "sha256": "e547bb62ff22f24e56d222723c6bfccb36d0b95f6e8e9391588c4691a691328d"
+    },
+    "public/napravleniya/strategiya-i-komandy/ii-strategiya-kompanii/index.html": {
+      "bytes": 25449,
+      "sha256": "b826adbd7956a0ebe5df731ba45d8c94cdeede5f8fd9f1e3163de912761d451a"
+    },
+    "public/napravleniya/strategiya-i-komandy/index.html": {
+      "bytes": 65998,
+      "sha256": "884b015a505700918ac972e7deddc547c4867ecaba8841614325747aa2a25aff"
+    },
+    "public/napravleniya/strategiya-i-komandy/issledovanie-rynka-i-konkurentov/index.html": {
+      "bytes": 25766,
+      "sha256": "077dcbbb900029fae5bfc5839d572b6d90fc2236154f83fe2de479c84585d262"
+    },
+    "public/napravleniya/strategiya-i-komandy/obuchenie-sotrudnikov-rabote-s-ii/index.html": {
+      "bytes": 25700,
+      "sha256": "14155d6f91950ef27c84b0c821bf1e0148b96a55a8e6e6ad3c8d0ce22ac7064d"
+    },
+    "public/napravleniya/strategiya-i-komandy/soprovozhdenie-tsifrovykh-proektov/index.html": {
+      "bytes": 25687,
+      "sha256": "e52d00b05bd00bb37d92da1885dbebe9650ee70447a01a124d302738d98c9ded"
+    },
+    "public/napravleniya/strategiya-i-komandy/tekhnicheskiy-direktor-na-autsorse/index.html": {
+      "bytes": 25902,
+      "sha256": "5c8e31a51bd3a2c55bfa52ac2650071888fcbb53b2e3deecda88abb507bdf1ca"
+    },
+    "public/napravleniya/strategiya-i-komandy/tsifrovaya-strategiya/index.html": {
+      "bytes": 25281,
+      "sha256": "116ae9c2007b930a7352ae7f10230f57fa95821d25e7a7728f457adef627fa32"
+    },
+    "public/napravleniya/strategiya-i-komandy/vorkshopy-dlya-rukovoditeley/index.html": {
+      "bytes": 25620,
+      "sha256": "06368dd9cddfad049cca8b45fa1dd1eff3f066af4d8199c7c0f08bd4e0ea288c"
+    },
+    "public/napravleniya/strategiya-i-komandy/vydelennaya-komanda/index.html": {
+      "bytes": 25443,
+      "sha256": "bf93755f779e678df50b976d24636ce9df199b8e143a227b92975479d0d0e247"
+    },
+    "public/otrasli/index.html": {
+      "bytes": 35566,
+      "sha256": "acc16aa6f9607e78cafe614aa686eca440bea321792d04e256b1ac032d6e2c87"
+    },
+    "public/privacy/index.html": {
+      "bytes": 20664,
+      "sha256": "5edeadb0c62510b4f8b742605902e8c2ec369c5dad286355d0ba4dd6d7fe6820"
+    },
+    "public/projects/ai-index/index.html": {
+      "bytes": 18981,
+      "sha256": "e25a92f0a335ac83a2b2b6b62211e110d124131838eee2788d83c82a21d34ef7"
+    },
+    "public/projects/averkron/index.html": {
+      "bytes": 19577,
+      "sha256": "80d87c54ef656423e976da11fb8755239919bcb18df701bc693181bd2e0d7886"
+    },
+    "public/projects/replyscope/index.html": {
+      "bytes": 18812,
+      "sha256": "80f98647aea0209d9b59a9497a0f545837bbffbdc40c858b5e084e54c982f35c"
+    },
+    "public/projects/trovendi/index.html": {
+      "bytes": 18956,
+      "sha256": "f7742285c2d6c75a184a09c90c458fe2c9e0d484ac05b4bb051a7a217a30fe99"
+    },
+    "public/projects/x10/docs/index.html": {
+      "bytes": 22921,
+      "sha256": "b986d1b816040d9e556b1e0cf42e4fef86b809c0564f983c8f0f78225ea1fe4c"
+    },
+    "public/projects/x10/index.html": {
+      "bytes": 26214,
+      "sha256": "dc97eb2fa50bb775dcb8f89d68a31b76ef462de0c41270e4b5428f4a8551e67c"
+    },
+    "public/prostranstvo/index.html": {
+      "bytes": 23598,
+      "sha256": "bdf687c9f9f26d24301546b2ec5a91d83513398fcee53e3ec797e7a79b88e52e"
+    },
+    "public/robots.txt": {
+      "bytes": 80,
+      "sha256": "2972da621ef600169502b06e9e7973ac50845918d26303fc89ef11270d413b64"
+    },
+    "public/sitemap.xml": {
+      "bytes": 14519,
+      "sha256": "dc31d79c6333fc4d80aa0f2d60196c2dc970dd7b007f854978eeb8d6ceb3f04c"
+    },
+    "public/yadro/index.html": {
+      "bytes": 22817,
+      "sha256": "413f7304b8cea28b368b55c6b099f7285d9625e639ca2e2f0fa17706c50b9173"
+    },
+    "public/zakazchikam/index.html": {
+      "bytes": 23429,
+      "sha256": "6a11632f85f807ea0f728c786a3702c2fab955cd69f5f3317b1a9abad415d045"
+    }
+  }
+}
