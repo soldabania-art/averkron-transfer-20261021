@@ -1,0 +1,169 @@
+{
+  "format": "averkron-encrypted-runtime-v1",
+  "sourceRef": "6886cfed9ecd8fdcaece492085ef0eea2a7038c7",
+  "archive": {
+    "bytes": 1882692,
+    "sha256": "2b9a049d0acad9d2a02071259b2b217bf9c4973758f6ae82724cde2ed7a480f2",
+    "releaseSha256": "6197362e54374e38509d68d9b05470abbe916746a720ca7951370423d1fcf6ee"
+  },
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "wrapping": "RSA-OAEP-SHA256",
+    "publicKeySha256": "7367103412fe984229b989dcc17f3a2cd051f95338a3a6fdfc3e321a1c1f440f",
+    "nonce": "/ZsBdajgsXjsuMo6",
+    "tag": "eMrrcIOsAsQuI6Zvtm7HMQ==",
+    "wrappedKey": "ATbQPrq4tTPpXjx3Vm9+KWmV8D7nIxXLIF/1aOa2AU0KX02by01xb1MsoAmhsbVqXzt99tNhM3i0hL7NHtnwqxpLTHT3/fhjYcpin5ERL0TsTVv6S11pOsAf5+tq8MzUaDmlI6dGGXlqliHc3PXrFt4Q9sSHrm9LqlDT5BOmYtdm7zuSZah/Z9NN0Cnq2h7IOSDV946CSA1tiLyR4KfO7Dom8CbQVJi6YbV/xDrDNi4dKoG9nq0o9EDlUl0jMcIn185MgPkbAs3F1vg0CLL66Fw1OQlhR6d9c47AeE4z9HvZSUdTJ9B4uWo0yggX624TW8k1zNPXyN4bL7wMKDyon0HLVfG1EWlTsGNmYyd2uBhsmAdzwqL4LRl+auNZODUmIg9OlowsPt374ePWI+zgxNr5fpu1y/NUpdA5AwRTcxwp7Sq3jd/d+FCbniSw5R9KjNeQCb1CimCm3A1gmiJ7fKfpvwgV2c8tpe6HNq+Gf9/fjOOe3Qpd/Ql3wpaLehvX",
+    "aad": "YXZlcmtyb24tYWdlbmN5LXJ1bnRpbWUAdjEANjg4NmNmZWQ5ZWNkOGZkY2FlY2U0OTIwODVlZjBlZWEyYTcwMzhjNwAyYjlhMDQ5ZDBhY2FkOWQyYTAyMDcxMjU5YjJiMjE3YmY5YzQ5NzM3NThmNmFlODI3MjRjZGUyZWQ3YTQ4MGYyADczNjcxMDM0MTJmZTk4NDIyOWI5ODlkY2MxN2YzYTJjZDA1MWY5NTMzOGEzYTZmZGZjM2UzMjFhMWMxZjQ0MGY="
+  },
+  "ciphertext": {
+    "bytes": 1882692,
+    "sha256": "be53456f233496c60877e5c3668d7dfd8766a0a8b65738ec578d916024fa7d10",
+    "parts": [
+      {
+        "name": "p0001.bin",
+        "bytes": 65536,
+        "sha256": "266ea191d3d865b534bb3131e37e588f4e771ce78adfbf7fee4811f30c4aa34c"
+      },
+      {
+        "name": "p0002.bin",
+        "bytes": 65536,
+        "sha256": "3229c3ea5ff9baa8821caa2f1de08434f29db86fe8045b55d3bf674b78161b4e"
+      },
+      {
+        "name": "p0003.bin",
+        "bytes": 65536,
+        "sha256": "9c66c0fec48661535c2b04a223034d5de968a02f200c4e95920cb0acaba58e27"
+      },
+      {
+        "name": "p0004.bin",
+        "bytes": 65536,
+        "sha256": "2da6a77e5bc2d6c98a177be21421fc900704d4ba0d6dac6aed3ec88e44b41b62"
+      },
+      {
+        "name": "p0005.bin",
+        "bytes": 65536,
+        "sha256": "b07f518f319648d9e12b8233aefd36f45119193a58dabbeba07f77cb27296f9c"
+      },
+      {
+        "name": "p0006.bin",
+        "bytes": 65536,
+        "sha256": "67360fb8cb8d334fed9765b582653aa7a2d9f870e848761f646f5616b6d66aba"
+      },
+      {
+        "name": "p0007.bin",
+        "bytes": 65536,
+        "sha256": "70dbbfcfa1f3f8d71170f9d077bbdd4017ad5ad1b682a848eeaeda06fcc201d6"
+      },
+      {
+        "name": "p0008.bin",
+        "bytes": 65536,
+        "sha256": "aeba6618918dd480c5acd507af878dbf0bf00dde7b865433ad5459d65d11b6e9"
+      },
+      {
+        "name": "p0009.bin",
+        "bytes": 65536,
+        "sha256": "dd36e860087e0573f37ba844666bd8a7333d845ff023e21e0b860e5eeae40d04"
+      },
+      {
+        "name": "p0010.bin",
+        "bytes": 65536,
+        "sha256": "bfa9e2bf8a7652362ee57568d91833779202288baa28130cbf70118f7acd41c8"
+      },
+      {
+        "name": "p0011.bin",
+        "bytes": 65536,
+        "sha256": "7f882b96bcde0ae5b601d5239fb18ab9a7ec0d4b9147e46cdc32dd4acde80363"
+      },
+      {
+        "name": "p0012.bin",
+        "bytes": 65536,
+        "sha256": "8e8c9a5afd973ffa70431ed5c8ebec89947b9b862a766262c8ade4f789f72e0d"
+      },
+      {
+        "name": "p0013.bin",
+        "bytes": 65536,
+        "sha256": "6e2c2ce212e7d8e551c99c8e46005fe74a1bdc31861dc6fb75e120351645e097"
+      },
+      {
+        "name": "p0014.bin",
+        "bytes": 65536,
+        "sha256": "15bde62742c7d0e82f86f2014f310072e0384f9f97b8c0c9aba6ab65bab1a0d2"
+      },
+      {
+        "name": "p0015.bin",
+        "bytes": 65536,
+        "sha256": "c9ea0c5dc70cb9616c430ce74c5927eae6ff8f4f94ee81af14896f6db7023cac"
+      },
+      {
+        "name": "p0016.bin",
+        "bytes": 65536,
+        "sha256": "b96e8582dc965c699a651e5ab0332a90c9372f628b6f959328fee17336ab01c6"
+      },
+      {
+        "name": "p0017.bin",
+        "bytes": 65536,
+        "sha256": "8e784825edfafb18ed3480c4c22d33d0bc6a4b031f8f9a02ab53c611913fb1a5"
+      },
+      {
+        "name": "p0018.bin",
+        "bytes": 65536,
+        "sha256": "edea08212d92330b42c617d53b17bc0acc397af55a0a43163e67042495cb4786"
+      },
+      {
+        "name": "p0019.bin",
+        "bytes": 65536,
+        "sha256": "4465f6ce161dc11ff5367375656850301fd15e5287244b3f330d6fd0748ce5fd"
+      },
+      {
+        "name": "p0020.bin",
+        "bytes": 65536,
+        "sha256": "6059c0a5082b9b4875c7c5dbb3b090ed7b7191e75df8ba6665d5056f6c5301fa"
+      },
+      {
+        "name": "p0021.bin",
+        "bytes": 65536,
+        "sha256": "780198ca6b1538613796fc7078cb0f08e295063c328df9cad8ef9f646a26205a"
+      },
+      {
+        "name": "p0022.bin",
+        "bytes": 65536,
+        "sha256": "2bfa6b4b27c69b2217e281aa2400d57563f7f1f402c246a6ae108b99adb69f99"
+      },
+      {
+        "name": "p0023.bin",
+        "bytes": 65536,
+        "sha256": "215f633920826f45c735e646633d807ac9348f0a86c0d33b9f62d5da390cc212"
+      },
+      {
+        "name": "p0024.bin",
+        "bytes": 65536,
+        "sha256": "71197fc47f01b52c1c757ce65c67184f9fdd89df8db3bd23f95dfea4ee86ba14"
+      },
+      {
+        "name": "p0025.bin",
+        "bytes": 65536,
+        "sha256": "b5ffdeff65620e994940b68f0a9140cb07cf2dbd2a786ad69a36bbe379536d65"
+      },
+      {
+        "name": "p0026.bin",
+        "bytes": 65536,
+        "sha256": "5306a52d11804b4c3d578c2d4bbfb55153ea62d0f56729b655d26b08f5628493"
+      },
+      {
+        "name": "p0027.bin",
+        "bytes": 65536,
+        "sha256": "79cbb42eb9013819da54594d0a160fa4e5f2c74d5dccfcef5c862c835186a7b1"
+      },
+      {
+        "name": "p0028.bin",
+        "bytes": 65536,
+        "sha256": "5dd91cf28f327e9e368305c3ff2af06379a471c594294df5526acee2eeac97f6"
+      },
+      {
+        "name": "p0029.bin",
+        "bytes": 47684,
+        "sha256": "916b2cd79349f839ddac7e3d43492947d267c67e6d7e4e6ca40365c66103dc27"
+      }
+    ]
+  }
+}
